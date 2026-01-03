@@ -1,0 +1,8 @@
+Purpose: Prevent large files, models, or unnecessary files from being uploaded to GitHub.
+
+Content:
+__pycache__/
+*.pkl
+*.csv
+.env
+.ipynb_checkpoints/
