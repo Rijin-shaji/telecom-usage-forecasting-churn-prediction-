@@ -64,12 +64,14 @@ telecom-usage-forecasting-churn-prediction/
 - Feature importance analysis highlights key behavioral factors
 - Visualization supports data-driven retention strategies
 
-## Installation
+- ## Installation
 Clone the repository and install dependencies:
 
-```bash
-git clone <your-repo-url>
+
+bash
+git clone :https://github.com/Rijin-shaji/telecom-usage-forecasting-churn-prediction-
 cd telecom-usage-forecasting-churn-prediction
-pip install -r requirements.txt
+pip install -r requirements.txt .should I add this in readme in github
+
 
 
