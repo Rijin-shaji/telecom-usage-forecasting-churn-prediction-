@@ -1,0 +1,8 @@
+Purpose: List all Python libraries needed to run your code.
+Content for your project:
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
