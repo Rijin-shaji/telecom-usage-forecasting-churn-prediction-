@@ -12,5 +12,5 @@ This folder contains trained machine learning models.
   - Predicts customer churn
   - Algorithm: Support Vector Machine (RBF Kernel)
 
-⚠️ Model files are ignored in GitHub using `.gitignore`.
+ Model files are ignored in GitHub using `.gitignore`.
 To generate models, run the training scripts in the `src/` folder.
