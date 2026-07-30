@@ -3,7 +3,7 @@ Telecom usage forecasting and churn prediction system using machine learning to 
 
 # Telecom Network – Customer Usage Forecasting & Churn Risk Classification
 
-## Overview
+# Overview
 This project builds a data-driven system to forecast next-month customer
 data usage and classify churn risk for a telecom company using machine
 learning models. It helps identify high-risk customers and optimize mobile
